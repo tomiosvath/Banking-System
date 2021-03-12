@@ -6,7 +6,7 @@ There are mainly basic functionalities, like Admin and User registration and log
 
 Home Screen:
 
-![alt text](https://drive.google.com/file/d/1b6AclbGyPLFRzJdjPdFpiji-faygV0gv/view?usp=sharing)
+![alt text](home.png)
 
 Admin Register Screen:
 
