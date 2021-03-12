@@ -6,12 +6,12 @@ There are mainly basic functionalities, like Admin and User registration and log
 
 Home Screen:
 
-![alt text] (https://drive.google.com/file/d/1b6AclbGyPLFRzJdjPdFpiji-faygV0gv/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1b6AclbGyPLFRzJdjPdFpiji-faygV0gv/view?usp=sharing)
 
 Admin Register Screen:
 
-![alt text] (https://drive.google.com/file/d/1zZxVb0Wi_PREy1TkWUGORNkpGND8cLAP/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1zZxVb0Wi_PREy1TkWUGORNkpGND8cLAP/view?usp=sharing)
 
 User page:
 
-![alt text] (https://drive.google.com/file/d/1yBAJHap98RRshsceDhuuIQhVxpmiOF9P/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1yBAJHap98RRshsceDhuuIQhVxpmiOF9P/view?usp=sharing)
